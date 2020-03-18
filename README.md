@@ -20,7 +20,7 @@
 
 #### 1. 项目目录
 
-![](/home/czx/Desktop/Learn/React/middleServer/img/选区_060.png)
+![](./img/选区_060.png)
 
 1. 创建一个build文件夹,在下面创建一个webpack.config.dev.js用于配置webpack的打包配置
 2. 创建一个client文件夹,下面主要存放页面
@@ -329,7 +329,7 @@ yarn devBuild && yarn start
 
 打开127.0.0.1:3000页面可见到对应效果
 
-![](/home/czx/Desktop/Learn/React/middleServer/img/选区_061.png)
+![](./img/选区_061.png)
 
 ### 5. 实现使用node层转发请求
 
@@ -465,5 +465,5 @@ module.exports = router;
 
 ### ６. 效果
 
-![](/home/czx/Desktop/Learn/React/middleServer/img/Peek 2020-03-18 15-57.gif)
+![](./img/Peek 2020-03-18 15-57.gif)
 
